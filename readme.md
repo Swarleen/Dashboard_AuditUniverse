@@ -7,6 +7,11 @@
 
 [![🚀 Click Here to Open the Live Dashboard](https://img.shields.io/badge/🚀%20Click%20Here%20to%20Open%20the%20Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMjQ1NDA3M2EtMTBjOC00YWJkLWIzZjktZGMzZjRhYjdjNWQzIiwidCI6IjMyMWIxNDA4LTIxZjAtNDE0My1hMzkwLTNiNjIwMmU2NWUxZiJ9)
 
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMjQ1NDA3M2EtMTBjOC00YWJkLWIzZjktZGMzZjRhYjdjNWQzIiwidCI6IjMyMWIxNDA4LTIxZjAtNDE0My1hMzkwLTNiNjIwMmU2NWUxZiJ9" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/🚀%20Open%20Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Open Live Dashboard"/>
+</a>
+
+
 > 👆 Click the badge above to open the live interactive dashboard in a new tab
 
 [![Portfolio](https://img.shields.io/badge/🌐%20swarleen.com-1B3A6B?style=for-the-badge)](https://www.swarleen.com)
